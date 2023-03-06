@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @restianreza
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, js
+- 🌱 I’m currently learning html, css, js, php, java, 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - restianreza30@gmail.com
 
